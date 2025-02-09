@@ -4,6 +4,8 @@ This repository contains my implementations of the main algorithms from SKAT, AC
 
 See <https://github.com/leelabsg/SKAT> for more information.
 
+![](images/p_PKP.png)
+
 ## Repository Structure
 
 - `src`: Contains the source code for the implementation of the algorithms.
